@@ -1,0 +1,28 @@
+Item,Quantity,Project,Taker,Organiser,Date Allotted,Date Returned
+
+Jumper wire  m-f,1,rfid,suraj,muntazir,2024-08-26 00:32:56,
+Jumper wire  m-f,1,,suraj,,,2024-08-26 00:46:01
+Rfid Scanner,1,Rfid scanner,Rishi,Muntazir,2024-09-02 20:29:54,
+large bread board,1,RFID module,Rewant Sharma ,Rishikesh Reddy,2024-09-12 10:26:37,
+Rfid Scanner,1,,Rishi,,,2024-09-12 18:02:50
+Jumper wire  m-f,7,RFID scanner,Rewant Sharma ,Rishikesh Reddy,2024-09-12 18:09:58,
+Rfid Scanner,1,id scanner,Rfid scanner,Rishikesh,2024-09-12 18:11:23,
+LCD 16*2,1,rfid scanner,Revent Sharma ,Rishikesh,2024-09-12 18:12:29,
+Serial Interface board for LCD16*2,1,rfid scanner,Revant Sharma,Rishikesh,2024-09-12 18:16:24,
+Jumper wire f-f,4,rfid scanner,Revant sharma,Rishikesh,2024-09-12 18:17:29,
+Jumper wire f-f,3,rfid scanner,Rewant sharma,,2024-09-13 18:55:33,
+buzzer 24v,1,rfid scanner,Rewant Sharma,Rishikesh,2024-09-13 18:56:24,
+Raspberrypi 4b,1,Hand motion bot,Chiranjeev,Chiranjeev,2024-09-24 19:39:55,
+Raspberrypi case,1,Hand motion bot,Chiranjeev,Chiranjeev,2024-09-24 19:40:04,
+Raspberrypi Cable,1,Hand motion bot,Chiranjeev,Chiranjeev,2024-09-24 19:40:30,
+128GB SD Card SanDisk,1,Hand motion bot,Chiranjeev,Chiranjeev,2024-09-24 19:41:28,
+jumper wire  m-f,7,,Rewant Sharma,,,2024-09-24 19:42:57
+rfid scanner,1,,Rewant Sharma,,,2024-09-24 19:43:31
+lcd 16*2,1,,Revant Sharma,,,2024-09-24 19:43:57
+serial interface board for lcd16*2,1,,Revant Sharma,,,2024-09-24 19:44:04
+jumper wire f-f,7,,Rewant Sharma,,,2024-09-24 19:44:34
+buzzer 24v,1,,Rewant Sharma,,,2024-09-24 19:44:55
+Logitech brio 100 Camera,1,,Anushka,Shreyansh,2025-01-21 19:34:42,
+Raspberrypi 4b,1,,Anushka,Shreyansh,2025-01-21 19:35:59,
+Raspberrypi case,1,,Anushka,Shreyansh,2025-01-21 19:36:10,
+128GB SD Card SanDisk,1,,Anushka,Shreyansh,2025-01-21 19:36:23,
